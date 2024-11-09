@@ -1,0 +1,18 @@
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex-direction: column;
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+.img{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
